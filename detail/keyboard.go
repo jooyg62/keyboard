@@ -1,4 +1,4 @@
-package keyboard
+package detail
 
 import (
         "log"
